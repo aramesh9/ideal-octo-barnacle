@@ -1,0 +1,80 @@
+.heading{
+    margin: 10px;
+    width: 30%;
+    border-radius: 200px;
+    border: solid 15px red;
+}
+
+h1{
+    width: 90%;
+    background-color: chartreuse;
+}
+
+.note{
+    font-size: 25px;
+    color: red;
+    padding: 15px;
+    font-weight: 900;
+    background-color: rgba(255, 255, 255, 0.829);
+    border: solid 10px red;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.note2{
+    font-size: 25px;
+    color: red;
+    padding: 15px;
+    font-weight: 900;
+    background-color: rgba(255, 255, 255, 0.829);
+    border: solid 10px blue;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+body{
+    color: black;
+    background-size: unset;
+    font-family: bradley hand;
+    font-size: medium;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed{
+    font-size: 20px;
+    margin: 15px;
+}
+
+.div_volume{
+    float: right;
+}
+
+.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume{
+    font-size: 20px;
+    margin: 15px;
+}
+
+.btn{
+    width: fit-content;
+    font-size: 200%;
+    background-color: chartreuse;
+    border: solid 5px red;
+}
+
+canvas{
+    margin-top: 300px;
+    border: groove 5px red;
+}
